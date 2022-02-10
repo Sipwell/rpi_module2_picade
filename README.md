@@ -1,9 +1,7 @@
 Fase 1 : Builden van de case
 Bron : https://learn.pimoroni.com/article/assembling-your-picade
-Issue found :
-- Monitor start niet automatisch op
-Oplossing issue :
-- Aanpassen /boot/config.txt met code <hdmi_force_hotplug=1>
+Issue found : Monitor start niet automatisch op
+Oplossing issue : Aanpassen /boot/config.txt met code <hdmi_force_hotplug=1>
 
 Fase 2 : Installeren Retropie
 Bron : https://learn.pimoroni.com/article/assembling-your-picade#getting-started-with-retropie
