@@ -11,8 +11,8 @@ Picade kit : https://shop.pimoroni.com/products/picade?variant=29210087489619
 Raspberry Pi 4B met 16GB SD
 
 ## Software
-Retropie : https://retropie.org.uk/
-ROMS : https://retropie.org.uk/docs/Transferring-Roms/
+- Retropie : https://retropie.org.uk/
+- ROMS : https://retropie.org.uk/docs/Transferring-Roms/
 
 ## Issues
 - Monitor startte niet automatisch op -> /boot/config.txt aangepast met code <hdmi_force_hotplug=1>
