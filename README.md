@@ -1,16 +1,21 @@
-Fase 1 : Builden van de case
-Bron : https://learn.pimoroni.com/article/assembling-your-picade
-Issue found : Monitor start niet automatisch op
-Oplossing issue : Aanpassen /boot/config.txt met code <hdmi_force_hotplug=1>
+# PICADE ARCADE CABINET
 
-Fase 2 : Installeren Retropie
-Bron : https://learn.pimoroni.com/article/assembling-your-picade#getting-started-with-retropie
-No issues
+## Beschrijving
+DIY bouwkit om een retro arcade cabinet te maken met retro games. 
 
-Fase 3 : Installeren ROM's
-Bron : https://retropie.org.uk/docs/Transferring-Roms/
-No issues
+## Bronnen
+Magpi Magazine & Pimoni website
 
-Fase 4 : Testen 
-Issue found : Geluid niet aanpasbaar in Retropie
-Oplssing issue : Aangepast via Alsamixer
+## Hardware
+Picade kit : https://shop.pimoroni.com/products/picade?variant=29210087489619
+Raspberry Pi 4B met 16GB SD
+
+## Software
+Retropie : https://retropie.org.uk/
+ROMS : https://retropie.org.uk/docs/Transferring-Roms/
+
+## Issues
+Monitor startte niet automatisch op -> /boot/config.txt aangepast met code <hdmi_force_hotplug=1>
+Geluid niet aanpasbaar in Retropie -> Aangepast in Alsamixer
+
+# Project succesvol geslaagd
