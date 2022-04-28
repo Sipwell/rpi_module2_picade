@@ -15,7 +15,7 @@ Retropie : https://retropie.org.uk/
 ROMS : https://retropie.org.uk/docs/Transferring-Roms/
 
 ## Issues
-Monitor startte niet automatisch op -> /boot/config.txt aangepast met code <hdmi_force_hotplug=1>
-Geluid niet aanpasbaar in Retropie -> Aangepast in Alsamixer
+- Monitor startte niet automatisch op -> /boot/config.txt aangepast met code <hdmi_force_hotplug=1>
+- Geluid niet aanpasbaar in Retropie -> Aangepast in Alsamixer
 
 # Project succesvol geslaagd
